@@ -13,7 +13,7 @@ public class Main {
             //menu
             System.out.println("1 - Cadastrar uma nova pessoa");
             System.out.println("2 - Editar dados de uma pessoa cadastrada");
-            System.out.println("3 - Exibir os dados de uma pessoa cadastrada");
+            System.out.println("3 - Exibir os dados da(s) pessoa(s) cadastrada");
             System.out.println("4 - Excluir os dados de uma pessoa cadastrada");
             System.out.println("0 - Sair");
             
